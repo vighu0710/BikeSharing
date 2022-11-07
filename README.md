@@ -41,11 +41,11 @@
 
 
 ## Technologies Used
-- pandas
-- seaborn
-- matplotlib
-- sklearn
-- statsmodel
+- pandas 1.4.2
+- seaborn 0.11.2
+- matplotlib 3.5.1
+- sklearn 1.0.2
+- statsmodel 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
