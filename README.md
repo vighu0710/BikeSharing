@@ -1,5 +1,5 @@
 # Bike Sharing Demand prediction
-> ## Demand prediction model prediction using linear regression
+> ## Demand prediction model creation using linear regression
 
 
 ## Table of Contents
