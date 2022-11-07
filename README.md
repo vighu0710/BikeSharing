@@ -1,5 +1,5 @@
 # Project Name
-> ## Bike Sharing prediction
+> ## Bike Sharing Demand prediction
 
 
 ## Table of Contents
@@ -13,12 +13,12 @@
 
 - In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. 
 
-> Essentially, the company wants —
+- Essentially, the company wants —
 
-- Which variables are significant in predicting the demand for shared bikes.
-- How well those variables describe the bike demands
+  - Which variables are significant in predicting the demand for shared bikes.
+  - How well those variables describe the bike demands
 
-> Based on various meteorological surveys and people's styles, we have a large dataset on daily bike demands across the American market based on some factors. 
+- Based on various meteorological surveys and people's styles, we have a large dataset on daily bike demands across the American market based on some factors. 
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -43,19 +43,20 @@
 ## Technologies Used
 - pandas
 - seaborn
-- 
+- matplotlib
+- sklearn
+- statsmodel
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project is done as part of Execution PG on ML & AI from upgrade with partnership with IIITB
+- This project was based on [this tutorial](https://github.com/ContentUpgrad/Linear-Regression/tree/main/Multiple%20Linear%20Regression%20in%20Python).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@vighu0710] - feel free to contact me!
 
 
 <!-- Optional -->
