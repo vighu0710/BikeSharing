@@ -1,5 +1,5 @@
-# Project Name
-> ## Bike Sharing Demand prediction
+# Bike Sharing Demand prediction
+> ## Demand prediction model prediction using linear regression
 
 
 ## Table of Contents
